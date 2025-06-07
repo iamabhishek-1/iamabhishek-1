@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate student and developer from Nepal 
 
 ## 📫 Connect with Me
 
-- Instagram: [@tech_byte](https://instagram.com/tech_byte)  
+- Instagram: [@tech_byte](https://instagram.com/tech_abhishek)  
 - YouTube: [bytewithabhi](https://youtube.com/@bytewithabhi)  
 
 ---
