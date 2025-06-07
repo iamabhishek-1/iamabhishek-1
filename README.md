@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek 👋
 
-https://github.com/iamabhishek-1/iamabhishek-1/blob/main/logo.jpg?raw=true
+
 
 Welcome to my GitHub profile! I'm a passionate student and developer from Nepal focusing on:
 
